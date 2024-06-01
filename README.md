@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mitchell A. Brusseau [@brmi1103]
-- 👀 I’m interested in many things but truly enjoy JavaScript and JSON
-- 🌱 I’m currently learning Front End Foundations
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in many things but I truly enjoy JavaScript and JSON
+- 🌱 I’m currently learning Typescript
 - 📫 You can reach me via email
 
 <!---
